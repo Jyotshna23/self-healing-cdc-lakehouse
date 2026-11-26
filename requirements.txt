@@ -1,0 +1,8 @@
+polars
+duckdb
+pydantic
+pytest
+email-validator
+pyarrow
+streamlit>=1.35,<2
+
